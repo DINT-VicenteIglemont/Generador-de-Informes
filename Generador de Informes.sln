@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generador de Informes", "Generador de Informes\Generador de Informes.csproj", "{6BEFBF66-B1D8-4468-9F0F-56A0316BB79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BEFBF66-B1D8-4468-9F0F-56A0316BB79A}.Debug|x86.ActiveCfg = Debug|x86
+		{6BEFBF66-B1D8-4468-9F0F-56A0316BB79A}.Debug|x86.Build.0 = Debug|x86
+		{6BEFBF66-B1D8-4468-9F0F-56A0316BB79A}.Release|x86.ActiveCfg = Release|x86
+		{6BEFBF66-B1D8-4468-9F0F-56A0316BB79A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422362AD-7E9A-4C89-9799-0121A1FF4F78}
+	EndGlobalSection
+EndGlobal
